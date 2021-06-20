@@ -3,7 +3,7 @@
 
 The files in this repository were used to configure the network depicted below.
 
-![](Diagrams/Network%20Image.png)
+![Network-Diagram](Diagrams/Network%20Image.png)
 
 These files have been tested and used to generate a live ELK deployment on Azure.
 
@@ -77,7 +77,7 @@ The playbook implements the following tasks:
 
 The following screenshot displays the result of running `docker ps` after successfully configuring the ELK instance.
 
-![](Linux/docker%20ps20-a%20results.png)
+![Docker-lookup](Linux/docker%20ps20-a%20results.png)
 
 ### Target Machines & Beats
 This ELK server is configured to monitor the following machines:
